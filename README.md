@@ -75,9 +75,6 @@ for loading and preprocessing the data, training the model on that data, and gen
 
 ![Picture2](https://github.com/autesakshi/Osteoarthiritis-detection-using-knee-X-ray/assets/96119061/72ca25cd-954c-4710-99e6-d3e1d4cd914d)
 
-![Picture3](https://github.com/autesakshi/Osteoarthiritis-detection-using-knee-X-ray/assets/96119061/15b31b2e-e499-4ff3-937c-47efcaca5e6a)
-![Picture4](https://github.com/autesakshi/Osteoarthiritis-detection-using-knee-X-ray/assets/96119061/4b234b6f-7e85-42f0-b95c-7faa89823782)
-
 ![Picture5](https://github.com/autesakshi/Osteoarthiritis-detection-using-knee-X-ray/assets/96119061/7d0cbe1e-ccf7-4244-8534-f2ea4ba7d72e)
 
 
